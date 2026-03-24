@@ -1,16 +1,16 @@
 # ☕ Coffee Shop Sales Analysis Dashboard
 
-## 📷 Dashboard Visualization
+## Dashboard Visualization
 ![Dashboard](coffee_shop_sales_db_ss.PNG)
 
 ---
 
-## 📌 Overview
+## Overview
 This project analyzes coffee shop sales data to understand customer behavior, product performance, and revenue trends. The goal is to transform raw transaction data into actionable insights through an interactive Excel dashboard.
 
 ---
 
-## 🎯 Business Objective
+## Business Objective
 - Analyze sales performance across days, hours, and months  
 - Identify peak sales periods and customer behavior patterns  
 - Evaluate top-performing products and categories  
@@ -19,7 +19,7 @@ This project analyzes coffee shop sales data to understand customer behavior, pr
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - Microsoft Excel  
 - Data Cleaning & Transformation  
 - Pivot Tables  
@@ -27,7 +27,7 @@ This project analyzes coffee shop sales data to understand customer behavior, pr
 
 ---
 
-## 📊 Key Metrics
+## Key Metrics
 - **Total Sales:** $698,812.33  
 - **Total Footfall:** 149,116  
 - **Average Sales per Day:** $3,860.84  
@@ -36,7 +36,7 @@ This project analyzes coffee shop sales data to understand customer behavior, pr
 
 ---
 
-## 📈 Dashboard Features
+## Dashboard Features
 - Sales analysis by day and hour  
 - Category-wise sales distribution  
 - Store-wise footfall comparison  
@@ -46,7 +46,7 @@ This project analyzes coffee shop sales data to understand customer behavior, pr
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 - Peak sales occur between **8 AM – 10 AM**, with **10 AM as the highest**  
 - **Monday and Friday** have the highest sales; **Saturday is the lowest**  
 - Sales increase over time, with **June being the highest revenue month**  
@@ -58,7 +58,7 @@ This project analyzes coffee shop sales data to understand customer behavior, pr
 
 ---
 
-## 📁 Project Files
+## Project Files
 - `coffee_shop_sales_db.xlsx` → Dashboard File  
 - `coffee_shop_sales_data.xlsx` → Raw dataset  
 - `coffee_shop_sales_db_ss.PNG` → Dashboard screenshot  
@@ -66,5 +66,5 @@ This project analyzes coffee shop sales data to understand customer behavior, pr
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 This project highlights how data analysis and visualization can help uncover key business insights. The dashboard simplifies complex data into an easy-to-understand format, enabling better decision-making.
